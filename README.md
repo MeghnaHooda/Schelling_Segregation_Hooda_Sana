@@ -10,3 +10,21 @@ In this code we present a 100x100 world with one agent occupying one space. Ever
 
 ![alt text](https://github.com/MeghnaHooda/Schelling_Segregation_Hooda_Sana/blob/main/Screenshots/screencapture-127-0-0-1-8521-2021-11-02-10_34_39.png)
 
+Homophily  
+25% (2)
+
+
+![alt text](https://github.com/MeghnaHooda/Schelling_Segregation_Hooda_Sana/blob/main/Screenshots/screencapture-127-0-0-1-8521-2021-11-02-11_01_37.png)
+
+
+Homophily
+ 50% (4)
+
+
+![alt text](https://github.com/MeghnaHooda/Schelling_Segregation_Hooda_Sana/blob/main/Screenshots/screencapture-127-0-0-1-8521-2021-11-02-11_11_23.png)
+
+
+Homophily
+ 75% (6)
+
+![alt text](https://github.com/MeghnaHooda/Schelling_Segregation_Hooda_Sana/blob/main/Screenshots/screencapture-127-0-0-1-8521-2021-11-02-11_29_04.png)
