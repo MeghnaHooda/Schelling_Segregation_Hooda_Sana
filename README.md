@@ -8,4 +8,5 @@ The original model of Schelling (1971) is set in a NxN grid. Agents are split in
 
 In this code we present a 100x100 world with one agent occupying one space. Every agent starts with a random space.
 
+![alt text](https://github.com/MeghnaHooda/Schelling_Segregation_Hooda_Sana/blob/main/Screenshots/screencapture-127-0-0-1-8521-2021-11-02-10_34_39.png)
 
